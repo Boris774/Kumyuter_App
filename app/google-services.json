@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "530008005037",
+    "project_id": "kumyuter-d80e0",
+    "storage_bucket": "kumyuter-d80e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530008005037:android:7d2daa076091792928a924",
+        "android_client_info": {
+          "package_name": "com.example.kumyuter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSRelReQgBLz8NN8zXbpR_ZsCEnlLizvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

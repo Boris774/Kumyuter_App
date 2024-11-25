@@ -1,0 +1,48 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/James/AndroidStudioProjects/Kumyuter/app/src/main/res/drawable-v24/ic_info_black.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/James/AndroidStudioProjects/Kumyuter/app/src/main/res/drawable/design_bottom.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/James/AndroidStudioProjects/Kumyuter/app/src/main/res/drawable/design_circle_progress.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/James/AndroidStudioProjects/Kumyuter/app/src/main/res/drawable/design_dialog_button.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/James/AndroidStudioProjects/Kumyuter/app/src/main/res/drawable/design_round_menu.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/James/AndroidStudioProjects/Kumyuter/app/src/main/res/drawable/ic_bell.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/James/AndroidStudioProjects/Kumyuter/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/James/AndroidStudioProjects/Kumyuter/app/src/main/res/drawable/ic_edit.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/James/AndroidStudioProjects/Kumyuter/app/src/main/res/drawable/ic_email.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/James/AndroidStudioProjects/Kumyuter/app/src/main/res/drawable/ic_history.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/James/AndroidStudioProjects/Kumyuter/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/James/AndroidStudioProjects/Kumyuter/app/src/main/res/drawable/ic_info.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/James/AndroidStudioProjects/Kumyuter/app/src/main/res/drawable/ic_info_black.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/James/AndroidStudioProjects/Kumyuter/app/src/main/res/drawable/ic_notifications_black_24dp.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/James/AndroidStudioProjects/Kumyuter/app/src/main/res/drawable/ic_phone.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/James/AndroidStudioProjects/Kumyuter/app/src/main/res/drawable/ic_qrcode.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/James/AndroidStudioProjects/Kumyuter/app/src/main/res/drawable/ic_schedule.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/James/AndroidStudioProjects/Kumyuter/app/src/main/res/drawable/ic_user.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/James/AndroidStudioProjects/Kumyuter/app/src/main/res/layout/activity_driverinfo.xml" value="0.25" />
+        <entry key="..\:/Users/James/AndroidStudioProjects/Kumyuter/app/src/main/res/layout/activity_history.xml" value="0.2" />
+        <entry key="..\:/Users/James/AndroidStudioProjects/Kumyuter/app/src/main/res/layout/activity_home.xml" value="0.25" />
+        <entry key="..\:/Users/James/AndroidStudioProjects/Kumyuter/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/Users/James/AndroidStudioProjects/Kumyuter/app/src/main/res/layout/activity_profile.xml" value="0.18" />
+        <entry key="..\:/Users/James/AndroidStudioProjects/Kumyuter/app/src/main/res/layout/activity_profileaddress.xml" value="0.1859375" />
+        <entry key="..\:/Users/James/AndroidStudioProjects/Kumyuter/app/src/main/res/layout/activity_profilecontact.xml" value="0.2" />
+        <entry key="..\:/Users/James/AndroidStudioProjects/Kumyuter/app/src/main/res/layout/activity_profileemail.xml" value="0.25" />
+        <entry key="..\:/Users/James/AndroidStudioProjects/Kumyuter/app/src/main/res/layout/activity_profilename.xml" value="0.25" />
+        <entry key="..\:/Users/James/AndroidStudioProjects/Kumyuter/app/src/main/res/layout/activity_profilepassword.xml" value="0.25" />
+        <entry key="..\:/Users/James/AndroidStudioProjects/Kumyuter/app/src/main/res/layout/activity_profileusername.xml" value="0.2" />
+        <entry key="..\:/Users/James/AndroidStudioProjects/Kumyuter/app/src/main/res/layout/activity_scan.xml" value="0.25" />
+        <entry key="..\:/Users/James/AndroidStudioProjects/Kumyuter/app/src/main/res/layout/activity_welcome.xml" value="0.25" />
+        <entry key="..\:/Users/James/AndroidStudioProjects/Kumyuter/app/src/main/res/layout/layout_contact.xml" value="0.33" />
+        <entry key="..\:/Users/James/AndroidStudioProjects/Kumyuter/app/src/main/res/layout/layout_dialog_logout.xml" value="0.33" />
+        <entry key="..\:/Users/James/AndroidStudioProjects/Kumyuter/app/src/main/res/layout/layout_history.xml" value="0.33" />
+        <entry key="..\:/Users/James/AndroidStudioProjects/Kumyuter/app/src/main/res/layout/layout_patient.xml" value="0.2" />
+        <entry key="..\:/Users/James/AndroidStudioProjects/Kumyuter/app/src/main/res/layout/layout_progress.xml" value="0.2" />
+        <entry key="..\:/Users/James/AndroidStudioProjects/Kumyuter/app/src/main/res/layout/layout_submit.xml" value="0.2" />
+        <entry key="..\:/Users/James/AndroidStudioProjects/Kumyuter/app/src/main/res/layout/layout_welcome.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK" />
+</project>

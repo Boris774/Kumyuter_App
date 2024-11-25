@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Kumyuter</string>
+    <string name="app_title">K U M Y U T E R</string>
+
+    <string name="title_activity_home">Home</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="input_name">Enter Full Name</string>
+    <string name="input_contact">Enter Phone Number</string>
+    <string name="input_address">Enter Address</string>
+    <string name="input_user">Enter Username</string>
+    <string name="input_email">Enter Email</string>
+    <string name="input_pass">Enter Password</string>
+    <string name="input_new">New Password</string>
+    <string name="input_confirm">Confirm Password</string>
+    <string name="input_hint">Show</string>
+    <string name="user_forgot">Forgot Password?</string>
+    <string name="user_login_now">Back to Login</string>
+    <string name="user_register_now">Not have an account?</string>
+    <string name="dialog_message_logout">Are you sure you want to log out?</string>
+    <string name="dialog_message_delete">Are you sure you want to delete it?</string>
+    <string name="dialog_message_pending">Are you sure you want to approve this request?</string>
+    <string name="dialog_message_complete">Is this complete patient medical record?</string>
+    <string name="dialog_message_note">Write a message for emergency details.</string>
+    <string name="dialog_message_delete_user">User Account, Patient Medical Records and others information. You will not be able to restore data if you delete this account.\n\nAre you sure you want to delete all?</string>
+    <string name="dialog_message_delete_history">Stock(s) of item be able to restore by the quantity deleted.\n\nAre you sure you want to delete?</string>
+    <string name="reset">Enter your recovery email address and we will send you a generate password thru email.</string>
+    <string name="title_activity_main">Main</string>
+</resources>
